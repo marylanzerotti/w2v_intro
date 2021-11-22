@@ -1,5 +1,6 @@
 # w2v_intro
-Word2vec with Farid Khafizov
+
+Word2vec with Farid Khafizov, 2021-11-22
 
 
 
